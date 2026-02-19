@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>R Key Hold </name>
+    <directory>r key hold</directory>
+    <id>3668263277</id>
+    <description>
+		[b]Holding the R button while possessing the 'R Key' will now trigger the item instead of resetting your run. Designed for forgetful players to avoid run-ending disasters.[/b]
+		[b]For REP/REP+[/b]
+	</description>
+    <version>1.0.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Tweaks"/>
+</metadata>
