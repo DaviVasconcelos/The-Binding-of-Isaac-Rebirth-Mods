@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Angel Drop Items Remake</name>
+    <directory>angel drop items remake</directory>
+    <id>3687974279</id>
+    <description>A remake of the original Angel Drop Items mod, with some bug fixes, rebalance and more support in the current game version. Were you ever annoyed that after getting both key pieces fighting both Uriel and Gabriel was entirely pointless? Have you never gotten lucky to get the Filigree Feather while going for the Angel Rooms? Wanted to reroll the Key Pieces with D6, but couldn't get anymore of them? If you said yes for any of those questions then this is a mod for you! Now after getting both Key Pieces and defeating either of these two angels lets you get random item from Angel Item Pool. (Unless you have Chaos, or any other item modifying item drops.)
+
+[h1][b]Features[/b][/h1]
+-REP and REP+ support
+-Mod Config Menu support
+-Works in both normal and greed modes (configurable)
+-Drops random item if you already have Key Piece dropped by respective angel
+-Spawns fallen angels instead of regular angels (configurable)
+-Configurable chance to get an item (default 50% chance).
+Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=840107435
+Original mod creator Ko-fi: https://ko-fi.com/sokyran</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Enemies"/>
+    <tag id="Bosses"/>
+    <tag id="Tweaks"/>
+</metadata>
